@@ -20,7 +20,7 @@ namespace project
 
         public static string UserName, password;
 
-        SqlConnection baglanti = new SqlConnection(@"Data Source=DESKTOP-7AA80CV\SQLEXPRESS; Initial Catalog=Projectdb; Integrated Security=True");
+        SqlConnection baglanti = new SqlConnection(@"Data Source=DESKTOP-CJENQD5\SQLEXPRESS; Initial Catalog=WalletBalancedb; Integrated Security=True");
         private void Form1_Load(object sender, EventArgs e)
         { }
 

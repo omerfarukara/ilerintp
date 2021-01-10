@@ -1,6 +1,4 @@
-﻿
-
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -22,7 +20,7 @@ namespace project
         }
         public static string UserName, password;
         int sayac = 0;
-        SqlConnection baglanti = new SqlConnection(@"Data Source=DESKTOP-7AA80CV\SQLEXPRESS; Initial Catalog=Projectdb; Integrated Security=True");
+        SqlConnection baglanti = new SqlConnection(@"Data Source=DESKTOP-CJENQD5\SQLEXPRESS; Initial Catalog=WalletBalancedb; Integrated Security=True");
 
         private void timer1_Tick(object sender, EventArgs e)
         {

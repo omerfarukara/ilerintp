@@ -57,7 +57,7 @@ namespace project
             // 
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("Sitka Heading", 12F);
-            this.label3.Location = new System.Drawing.Point(108, 102);
+            this.label3.Location = new System.Drawing.Point(116, 105);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(18, 23);
             this.label3.TabIndex = 5;
@@ -68,7 +68,7 @@ namespace project
             // 
             this.label4.AutoSize = true;
             this.label4.Font = new System.Drawing.Font("Sitka Heading", 12F);
-            this.label4.Location = new System.Drawing.Point(132, 102);
+            this.label4.Location = new System.Drawing.Point(140, 105);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(17, 23);
             this.label4.TabIndex = 6;
@@ -79,7 +79,7 @@ namespace project
             // 
             this.label5.AutoSize = true;
             this.label5.Font = new System.Drawing.Font("Sitka Heading", 12F);
-            this.label5.Location = new System.Drawing.Point(155, 102);
+            this.label5.Location = new System.Drawing.Point(163, 105);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(44, 23);
             this.label5.TabIndex = 7;
@@ -98,7 +98,7 @@ namespace project
             // 
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Sitka Heading", 12F);
-            this.label2.Location = new System.Drawing.Point(30, 137);
+            this.label2.Location = new System.Drawing.Point(38, 140);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(203, 23);
             this.label2.TabIndex = 10;
@@ -108,7 +108,7 @@ namespace project
             // 
             this.label6.AutoSize = true;
             this.label6.Font = new System.Drawing.Font("Sitka Heading", 10F);
-            this.label6.Location = new System.Drawing.Point(26, 155);
+            this.label6.Location = new System.Drawing.Point(34, 158);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(209, 20);
             this.label6.TabIndex = 11;
@@ -118,7 +118,7 @@ namespace project
             // 
             this.label7.AutoSize = true;
             this.label7.Font = new System.Drawing.Font("Sitka Heading", 12F);
-            this.label7.Location = new System.Drawing.Point(241, 152);
+            this.label7.Location = new System.Drawing.Point(249, 155);
             this.label7.Name = "label7";
             this.label7.Size = new System.Drawing.Size(18, 23);
             this.label7.TabIndex = 12;
